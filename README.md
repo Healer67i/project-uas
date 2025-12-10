@@ -28,11 +28,17 @@
 *Gambar : <img width="1307" height="315" alt="image" src="https://github.com/user-attachments/assets/380e7bbb-f513-44a8-9ee1-4a34b65ebd46" />
 
 
+Jumlah mahasiswa sangat bervariasi, sebagian besar universitas berukuran kecil-menengah.
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 *SCATTER PLOT : Melihat hubungan antara dua variabel apakah ada korelasi (Student falculty vs Graduation Rate)
 
 *Gambar : <img width="1323" height="325" alt="image" src="https://github.com/user-attachments/assets/9daebd12-93e5-4dba-983e-0bf56b68ceac" />
+
+
+Jumlah mahasiswa sangat bervariasi, sebagian besar universitas berukuran kecil-menengah.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,6 +49,8 @@
 *Gambar : 
 .<img width="1375" height="347" alt="image" src="https://github.com/user-attachments/assets/28096546-3e15-436d-bc95-d2a729fb2e9b" />
 
+
+Universitas Private cenderung memiliki tingkat kelulusan lebih tinggi.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
