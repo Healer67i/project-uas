@@ -1,7 +1,8 @@
 # Project-UAS-KNIME
 *Data Proccesing:
 
-<img width="607" height="342" alt="image" src="https://github.com/user-attachments/assets/7eb1f303-6d31-4198-a280-1889dac92d45" />
+<img width="597" height="433" alt="image" src="https://github.com/user-attachments/assets/23eabf2c-1359-4eab-8f62-a498cf85c612" />
+
 
 *Langkah-langkah : 
 
