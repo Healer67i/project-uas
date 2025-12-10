@@ -86,5 +86,4 @@ Universitas Private biasanya punya rasio FT/Students lebih baik → menunjukkan 
 *Gambar :<img width="1387" height="287" alt="image" src="https://github.com/user-attachments/assets/2af9f2a4-1552-422b-ad43-f735004ffb69" />
 
 
-
-Universitas Private biasanya punya rasio FT/Students lebih baik → menunjukkan kualitas pengajaran yang lebih tinggi.
+Membantu pembaca memahami struktur dataset.
