@@ -54,3 +54,37 @@ Universitas Private cenderung memiliki tingkat kelulusan lebih tinggi.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*BOX PLOT
+
+
+*Gambar :<img width="1375" height="345" alt="image" src="https://github.com/user-attachments/assets/1c6794d1-5895-4526-9f60-7591ec0d8c34" />
+
+
+menunjukkan bahwa secara distribusi, Private cenderung punya Grad.Rate lebih tinggi dan lebih stabil daripada Public.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*Bar chart
+
+
+*Gambar :<img width="1321" height="322" alt="image" src="https://github.com/user-attachments/assets/625764be-d392-4d5e-8aa8-6b5f2c8bf541" />
+
+
+
+Universitas Private biasanya punya rasio FT/Students lebih baik → menunjukkan kualitas pengajaran yang lebih tinggi.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*Pie chart
+
+
+*Gambar :<img width="1387" height="287" alt="image" src="https://github.com/user-attachments/assets/2af9f2a4-1552-422b-ad43-f735004ffb69" />
+
+
+
+Universitas Private biasanya punya rasio FT/Students lebih baik → menunjukkan kualitas pengajaran yang lebih tinggi.
