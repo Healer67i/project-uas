@@ -1,47 +1,46 @@
 # Project-UAS-KNIME
+
+#Ezekiel Kloai (C14250137
 *Data Proccesing:
 
 <img width="597" height="433" alt="image" src="https://github.com/user-attachments/assets/23eabf2c-1359-4eab-8f62-a498cf85c612" />
 
 
-*Langkah-langkah : 
 
-    1. Gunakan CSV Reader untuk membaca sample datanya
 
-    2. Gunakan missing value note untuk mencari data yang hilang atau yang di simpulkan sebagai "?"
+1. Gunakan CSV Reader untuk membaca sample datanya
+
+2. Gunakan missing value note untuk mencari data yang hilang atau yang di simpulkan sebagai "?"
     
-    3. Gunakan number to string bagi data yang merupakan bukan numerik (seperti : Public 1/Private 2)
+3. Gunakan number to string bagi data yang merupakan bukan numerik (seperti : Public 1/Private 2)
 
 
-        <img width="477" height="577" alt="image" src="https://github.com/user-attachments/assets/936aa7ca-3c0c-4b60-b43a-a11aa514b369" />
+ <img width="477" height="577" alt="image" src="https://github.com/user-attachments/assets/936aa7ca-3c0c-4b60-b43a-a11aa514b369" />
 
         
         
-    4. Menghapus kolom yang tidak dipakai dengan node Coulum Filter
+4. Menghapus kolom yang tidak dipakai dengan node Coulum Filter
 
 
-        <img width="483" height="527" alt="image" src="https://github.com/user-attachments/assets/9101019e-8c02-4833-a25a-6de27a42c22a" />
-
-
-    
-    5. Gunakan node One-to-Many untuk mengubah kategori menjadi banyak kolom angka agar bisa digunakan dalam analisis atau machine learning
-
-
-        <img width="483" height="587" alt="image" src="https://github.com/user-attachments/assets/06d36930-cbd2-44f5-b9f0-2422cfce8ba8" />
+ <img width="483" height="527" alt="image" src="https://github.com/user-attachments/assets/9101019e-8c02-4833-a25a-6de27a42c22a" />
 
 
     
-    6. Gunakan Normalizer untuk memastikan semua kolom numerik memiliki skala yang setara sehingga tidak ada variabel yang mendominasi analisis  
+5. Gunakan node One-to-Many untuk mengubah kategori menjadi banyak kolom angka agar bisa digunakan dalam analisis atau machine learning
 
 
-    <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/44dd6495-2f93-40f6-abf5-c2c40dfbf489" />
+<img width="483" height="587" alt="image" src="https://github.com/user-attachments/assets/06d36930-cbd2-44f5-b9f0-2422cfce8ba8" />
 
 
     
-    7. Gunakan Histrogram, Scatter plot, dan bar chart sebagai output dan lainnya seperti berikut: 
+6. Gunakan Normalizer untuk memastikan semua kolom numerik memiliki skala yang setara sehingga tidak ada variabel yang mendominasi analisis  
+
+
+ <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/44dd6495-2f93-40f6-abf5-c2c40dfbf489" />
+
 
     
---------------------------------------------------------------------------------------------------------------------------------------------------
+7. Gunakan Histrogram, Scatter plot, dan bar chart sebagai output dan lainnya seperti berikut: 
 
 
 *HISTROGRAM : Berfungsi untuk melihat distribusi nilai sebuah variabel numerik(Graduation rate)
